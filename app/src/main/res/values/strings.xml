@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cronometre_24_25</string>
+    <string name="student_name">Daniel Bogdan Mitroi</string>
+    <string name="time_format">Time: %s</string>
+    <string name="start_label">START</string>
+    <string name="stop_label">STOP</string>
+    <string name="reset_label">RESET</string>
+    <string name="bing_message">Bing!</string>
+    <string name="initialization_error">Initialization error</string>
+</resources>
